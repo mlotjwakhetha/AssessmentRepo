@@ -16,7 +16,7 @@ Maven: For dependency management and build automation.
 JUnit: For additional testing framework support
 
 ## Installation
-1. git clone 
+1. git clone https://github.com/mlotjwakhetha/AssessmentRepo
 2. Install Java (jdk 20 or higher version)
 3. Add dependencies on pom.xml file
 
