@@ -7,7 +7,7 @@ Add a product to the shopping cart.
 Checkout the items in the cart and validate the checkout process.
 Complete the transaction by filling in the required checkout information. 
 
-# Requirements
+## Requirements
 Tools and Libraries
 Java: The core programming language.
 Selenium WebDriver: For browser automation.
@@ -15,12 +15,12 @@ TestNG: For test management and execution.
 Maven: For dependency management and build automation.
 JUnit: For additional testing framework support
 
-# Installation
-1. git clone <repository-url>
+## Installation
+1. git clone 
 2. Install Java (jdk 20 or higher version)
 3. Add dependencies on pom.xml file
 
-# Running the project
+## Running the project
 Navigate to the project directory.
 Execute the test by opening the test folder and run the test rnner file
 
